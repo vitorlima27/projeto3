@@ -1,0 +1,35 @@
+{
+  "caronasMotoristas": [
+    {
+      "nome": "joao vitor",
+      "contato": "88951134158",
+      "destino": "Russas",
+      "data": "27-11-2020",
+      "id":1
+    },
+    {
+      "nome": "Thiago",
+      "contato": "8862151681",
+      "destino": "Russas",
+      "data": "02-12-2020",
+      "id":2
+    }
+  ],
+  "caronasPassageiros": [
+    {
+      "nome": "Emanuel",
+      "contato": "88951134158",
+      "destino": "Mossoro",
+      "data": "20-11-2020",
+      "id":1
+    },
+    {
+      "nome": "Francisco",
+      "contato": "8862144841",
+      "destino": "Fortaleza",
+      "data": "05-12-2020",
+      "id":2
+    }
+
+  ]
+}
